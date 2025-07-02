@@ -1,5 +1,5 @@
 # Integrated-MMNLSE
-This repository contains code to calculate modes, dispersion and mode coupling coefficient, and solve the Generalized Multimode Nonlinear Schrodinger Equation (GMMNLSE) for integrated waveguides. 
+This repository contains codes to calculate modes, dispersions and mode coupling coefficient, and solve the Generalized Multimode Nonlinear Schrodinger Equation (GMMNLSE) for integrated waveguides. 
 
 # Code
 Code/modesolver contains the code to solve the modes, which can be run from pymodesolver.py.
