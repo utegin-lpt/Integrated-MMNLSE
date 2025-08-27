@@ -15,14 +15,14 @@ Please enable Jax-support for 64-bit floating number to prevent NaN value while 
 
 # Related work
 Iskandar Muda, A. M. and Teğin, U. (2025). Spatiotemporal Nonlinear Pulse Dynamics in Multimode Silicon Nitride Waveguides. ArXiv Preprint. https://arxiv.org/abs/2508.18945.
-'''
+```
 @article{muda2025spatiotempora,
   title={Spatiotemporal Nonlinear Pulse Dynamics in Multimode Silicon Nitride Waveguides},
   author={Azka Maula Iskandar Muda and Te{\u{g}}in, U{\u{g}}ur},
   journal={ArXiv Preprint},
   year={2025},
 }
-'''
+```
 
 # License
 This project is covered under the Creative Common (CC BY NC) License. The data and code are avaiable for non-commercial research purposes only with proper citation to aforementioned manuscript.
