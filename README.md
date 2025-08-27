@@ -14,7 +14,7 @@ Please enable Jax-support for 64-bit floating number to prevent NaN value while 
 - Jax
 
 # Related work
-TBA
+Azka Maula Iskandar Muda and Uğur Tegin. Spatiotemporal Nonlinear Pulse Dynamics in Multimode Silicon Nitride Waveguides. https://arxiv.org/abs/2508.18945.
 
 # License
 This project is covered under the Creative Common (CC BY NC) License. The data and code are avaiable for non-commercial research purposes only with proper citation to aforementioned manuscript.
